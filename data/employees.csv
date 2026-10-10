@@ -1,0 +1,9 @@
+ID,Name,Department,Salary
+101,John Doe,Engineering,75000.00
+102,Jane Smith,HR,60000.00
+103,,Sales,55000.00
+104,Alice Johnson,Engineering,80000.00
+105,Bob Brown,Marketing,invalid_salary
+106,Charlie Davis,Engineering,72000.00
+107,Eva White
+108,Frank Black,Sales,58000.00
